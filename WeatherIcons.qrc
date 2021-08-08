@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/WeatherIcons">
+        <file>weather_icons/brokenclouds.png</file>
+        <file>weather_icons/clearsky.png</file>
+        <file>weather_icons/fewclouds.png</file>
+        <file>weather_icons/foggy.png</file>
+        <file>weather_icons/rain.png</file>
+        <file>weather_icons/scatteredclouds.png</file>
+        <file>weather_icons/snow.png</file>
+        <file>weather_icons/thunderstorm.png</file>
+    </qresource>
+</RCC>

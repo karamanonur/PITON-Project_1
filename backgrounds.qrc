@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background/pexels-adrien-olichon-2387793.jpg</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/post-it.png</file>
+        <file>icons/cloudy.png</file>
+    </qresource>
+</RCC>
