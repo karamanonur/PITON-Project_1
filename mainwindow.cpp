@@ -190,7 +190,6 @@ void MainWindow::weather(QNetworkReply *reply)
         }
     }
     reply -> deleteLater();
-    qDebug()<<"pressed";
 
 }
 

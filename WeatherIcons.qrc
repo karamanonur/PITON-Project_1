@@ -9,4 +9,5 @@
         <file>weather_icons/snow.png</file>
         <file>weather_icons/thunderstorm.png</file>
     </qresource>
+    <qresource prefix="/"/>
 </RCC>

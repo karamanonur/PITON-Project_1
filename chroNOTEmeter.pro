@@ -31,7 +31,5 @@ RESOURCES += \
     backgrounds.qrc \
     icons.qrc
 
-RC_ICONS = picklerick.ico
-
 DISTFILES += \
     weather_icons/brokenclouds.png
