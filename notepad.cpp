@@ -1,5 +1,6 @@
 #include "notepad.h"
 #include "ui_notepad.h"
+#include "mainwindow.h"
 #include <QFile>
 #include <QFileDialog>
 #include <QTextStream>
@@ -67,5 +68,13 @@ void Notepad::on_saveAsButton_clicked()
     out<<text;
     file.flush();
     file.close();
+}
+
+
+void Notepad::on_goBackButton_clicked()
+{
+    this->hide();
+    MainWindow *mainWin = new MainWindow();
+    mainWin->show();
 }
 

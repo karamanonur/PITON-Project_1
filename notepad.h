@@ -24,6 +24,8 @@ private slots:
 
     void on_saveAsButton_clicked();
 
+    void on_goBackButton_clicked();
+
 private:
     Ui::Notepad *ui2;
     QString file_path;
