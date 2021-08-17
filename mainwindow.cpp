@@ -121,8 +121,6 @@ void MainWindow::on_pausebutton_clicked()
     }
 }
 
-
-
 void MainWindow::weather(QNetworkReply *reply)
 {
     ui -> feels_like -> display(000);
@@ -192,7 +190,6 @@ void MainWindow::weather(QNetworkReply *reply)
     reply -> deleteLater();
 
 }
-
 
 void MainWindow::on_weatherbutton_clicked()
 {
